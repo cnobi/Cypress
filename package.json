@@ -1,0 +1,23 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/cnobi/Cypress#readme",
+  "bugs": {
+    "url": "https://github.com/cnobi/Cypress/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnobi/Cypress.git"
+  },
+  "license": "ISC",
+  "author": "Susan Shrestha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^14.0.1"
+  }
+}
